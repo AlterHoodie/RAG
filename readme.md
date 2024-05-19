@@ -56,10 +56,33 @@ To run the Extractor, execute each cell in the extractor.ipynb file.
 - Execute python query_data.py "{YOUR QUERY}".
 
 ## Results
+Expected Image 1: 
 
-| Expected Image                               | Result Image                       |
-| -------------------------------------------- | ---------------------------------- |
-| ![Expected](./Results/Expected_Result_1.jpg) | ![Result](./Results/Result_1.jpg)  |
-| ![Expected](./Results/Expected_Result_2.jpg) | ![Result](./Results/Result_2.jpg)  |
-| ![Expected](./Results/Expected_Result_3.jpg) | ![Result](./Results/Result_3.jpg)  |
-| ![Expected](./Results/Expected_Result_4.jpg) | ![Result](./Results/Result_4.jpg)  |
+<img src="./Results/Expected_Result_1.jpg" alt="Result" width="500"/>
+
+Result Image 1: 
+
+![Result 1](./Results/Result_1.jpg)
+
+Expected Image 2: 
+
+<img src="./Results/Expected_Result_2.jpg" alt="Result" width="400"/>
+
+Result Image 2: 
+
+![Result 2](./Results/Result_2.jpg)
+
+Expected Image 3: 
+
+<img src="./Results/Expected_Result_3.jpg" alt="Result" width="400"/>
+
+Result Image 3: 
+![Result 3](./Results/Result_3.jpg)
+
+Expected Image 4: 
+
+<img src="./Results/Expected_Result_4.jpg" alt="Result" width="400"/>
+
+Result Image 4: 
+
+![Result 4](./Results/Result_4.jpg)
