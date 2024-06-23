@@ -1,6 +1,4 @@
-# Phase 1 Submission
-## NOTE:
-> Please consider that we have our End Semester Exams going on and we couldnt accomplish some Phase 1 deliverables.
+# RAG ChatBot
 
 ## Metrics
 
